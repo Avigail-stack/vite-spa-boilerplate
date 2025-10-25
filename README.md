@@ -1,64 +1,18 @@
 # Vite SPA Starter
 
-A minimal Vite-based single page application boilerplate for quick project setup.
+A modern single-page application starter built with Vite.
 
-## Features
-
-- Fast development with Vite
-- Hot Module Replacement (HMR)
-- Optimized production builds
-- Modern JavaScript/TypeScript support
-- Minimal configuration required
+**Repository**: [vite-spa-boilerplate](https://github.com/Avigail-stack/vite-spa-boilerplate) (Public)
 
 ## Getting Started
-
-### Prerequisites
-
-- Node.js (v14 or higher)
-- npm or yarn
-
-### Installation
-
 ```bash
 npm install
-```
-
-### Development
-
-Start the development server:
-
-```bash
 npm run dev
 ```
 
-### Build
+## Features
 
-Build for production:
-
-```bash
-npm run build
-```
-
-### Preview
-
-Preview the production build:
-
-```bash
-npm run preview
-```
-
-## Project Structure
-
-```
-.
-├── index.html          # Entry HTML file
-├── src/               # Source files
-│   ├── main.js        # Application entry point
-│   └── style.css      # Global styles
-├── public/            # Static assets
-└── package.json       # Project dependencies
-```
-
-## License
-
-MIT
+- ⚡️ Vite for fast development
+- 🎯 Modern JavaScript/TypeScript support
+- 🔥 Hot Module Replacement (HMR)
+- 📦 Optimized build
